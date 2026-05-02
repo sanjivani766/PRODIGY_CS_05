@@ -1,6 +1,6 @@
-# Task-05: Network Packet Analyzer
+#  Network Packet Analyzer
 
-This project is part of my **Prodigy InfoTech Internship** (Task-05) focused on cybersecurity and network analysis.  
+This project is focused on cybersecurity and network analysis.  
 It is a **Python-based packet sniffer** that captures and analyzes network packets on your system for **educational purposes**.  
 
 The tool demonstrates the basics of **network traffic monitoring** and **protocol analysis** in a safe and controlled environment.
@@ -57,9 +57,9 @@ Integration with threat intelligence feeds: Flag packets from known malicious IP
 
 Machine learning anomaly detection: Detect unusual traffic patterns automatically.
 
-Ethical Use
+## Ethical Use
 
 This tool is developed strictly for educational purposes.
 It should only be used on networks where you have permission to capture traffic.
 Unauthorized packet sniffing on public or private networks without consent is illegal.
-This project is part of my internship at Prodigy InfoTech and is intended as a demonstration of network monitoring skills for educational purposes.
+This project is intended as a demonstration of network monitoring skills for educational purposes.
